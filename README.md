@@ -19,6 +19,7 @@ API documentation is a contract between the provider and the consumer. I approac
 
 1. Added structured API reference and inline package comments: https://github.com/eminwux/sbsh/pull/103
 2. Add API Integration Guide and Backend Scaffolding: https://github.com/devanshi14malhotra/BiblioDrift/pull/52
+3. Initialize OpenAPI specification for NexusBank core domains: https://github.com/csa7mdm/NexusBank/pull/85
 
     
 
