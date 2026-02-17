@@ -1,5 +1,9 @@
 # 🌐 API Documentation Portfolio
 
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndmthNHB6bnR6bmZ6Z3B6bnR6bmZ6Z3B6bnR6bmZ6Z3B6bnR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="API Request">
+</p>
+
 ### _Designing clear, secure, and high-performance interface references._
 
 ## 📌 Philosophy
